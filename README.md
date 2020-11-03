@@ -15,7 +15,7 @@ cd quasar
 chmod +x install.sh
 chmod +x quasar.sh
 sudo ./install.sh
-sudo ./quasar.sh
+bash quasar.sh
 ```
 # Screenshots
 ![Quasar](https://raw.githubusercontent.com/TunisianEagles/quasar/master/Screenshot/quasar.png)
