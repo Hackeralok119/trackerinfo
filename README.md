@@ -1,6 +1,7 @@
 # Quasar
 <b>Quasar Is An Information Gathering Framework For Penetration Testers Coded By ALOK</b>
-![Quasar](https://raw.githubusercontent.com/TunisianEagles/quasar/master/Screenshot/quasae.png)
+![Screenshot_2020-11-03-10-13-08-869_com termux](https://user-images.githubusercontent.com/70144305/97950765-0207f600-1dbe-11eb-9ad7-a20f6b9489cf.jpg)
+
 * Website Informations
 * E-mail Address Checker
 * Phone Number Information
