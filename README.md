@@ -10,7 +10,7 @@
 # Installation
 ```
 sudo apt-get install git
-git clone https://github.com/Hackeralok119/quasar
+git clone https://github.com/Hackeralok119/trackerinfo.git
 cd quasar
 chmod +x install.sh
 chmod +x quasar.sh
