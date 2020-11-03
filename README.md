@@ -28,7 +28,7 @@ bash quasar.sh
 * Backbox linux
 * Ubuntu 
 # Tutorial
-* https://www.youtube.com/watch?v=VuQ6rH6yJtQ&feature=youtu.be
+*https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg
 # Contact
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
 * [Youtube](https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg) - Tunisian Eagles Youtube Channel
