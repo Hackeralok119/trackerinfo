@@ -399,10 +399,10 @@ fi
 #
 elif [ $ch = 8 ]; then
 echo ""
-echo -e "$green 	Coded By    $nc:$yellow Belahsan Ouerghi$nc"
-echo -e "$green 	My Facebook $nc:$yellow www.facebook.com/ouerghi.belahsan$nc"
-echo -e "$green 	My Github   $nc:$yellow www.github.com/TunisianEagles$nc"
-echo -e "$green 	My Youtube $nc :$yellow www.youtube.com/channel/UCv9HdZbTOo0iBG5X2qaqmqg$nc"
+echo -e "$green 	Coded By    $nc:$yellow ALOK HACKER"
+echo -e "$green 	My Facebook $nc:$yellow www.facebook.com/ANIKET KAKENI$nc"
+echo -e "$green 	My Github   $nc:$yellow www.github.com/Hackeralok119$nc"
+echo -e "$green 	My Youtube $nc :$yellow https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg$nc"
 echo ""
 back
 elif [ $ch = 9 ]; then
