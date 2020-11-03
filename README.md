@@ -22,6 +22,8 @@ bash quasar.sh
 ![Screenshot_2020-11-03-10-13-20-761_com termux](https://user-images.githubusercontent.com/70144305/97950829-29f75980-1dbe-11eb-835a-52a81f035e62.jpg)
 
 ![Quasar](https://raw.githubusercontent.com/TunisianEagles/quasar/master/Screenshot/quasar2.png)
+![Screenshot_2020-11-03-10-14-15-448_com termux](https://user-images.githubusercontent.com/70144305/97950869-498e8200-1dbe-11eb-8200-915cad40c80b.jpg)
+
 # Tested On :
 * Backbox linux
 * Ubuntu 
