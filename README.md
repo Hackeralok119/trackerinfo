@@ -44,6 +44,6 @@ bash quasar.sh
 *https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg
 # Contact
 * [Contact](https://www.instgram.com/hacker.alok1) - Hacker.alok1
-* [Youtube](https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg) - Tunisian Eagles Youtube Channel
+* [Youtube](https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg) - Hacker alok Youtube Channel
 #
 * The author does not hold any responsibility for the bad use of this tool, remember that attacking targets without prior consent is illegal and punished by law.
