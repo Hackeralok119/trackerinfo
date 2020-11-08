@@ -43,7 +43,7 @@ bash quasar.sh
 # Tutorial
 *https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg
 # Contact
-* [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
+* [Contact](https://www.Instgram.com/Hacker.alok1) - Hacker.alok1
 * [Youtube](https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg) - Tunisian Eagles Youtube Channel
 #
 * The author does not hold any responsibility for the bad use of this tool, remember that attacking targets without prior consent is illegal and punished by law.
