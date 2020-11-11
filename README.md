@@ -25,7 +25,7 @@
 ```
 sudo apt-get install git
 git clone https://github.com/Hackeralok119/trackerinfo.git
-cd quasar
+cd trackerinfo
 chmod +x install.sh
 chmod +x quasar.sh
 sudo ./install.sh
