@@ -41,7 +41,7 @@ bash quasar.sh
 * Backbox linux
 * Ubuntu 
 # Tutorial
-*https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg
+*https://youtube.com/channel/UCVH42IFhbGAeJDtC3TJSfzA
 # Contact
 * [Contact](https://www.instgram.com/hacker.alok1) - Hacker.alok1
 * [Youtube](https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg) - Hacker alok Youtube Channel
