@@ -11,6 +11,10 @@
 
 
 
+###### <p align="center">*This is official repository maintained by us*
+###### <p align="center"> *[**@Hacker Alok **](https://www.instagram.com/Hacker.alok1/) ❤️*
+###### <p align="center"> *You can check [YouTube](https://youtube.com/channel/UCVH42IFhbGAeJDtC3TJSfzA)✌*
+---
 
 # Quasar
 <b>Quasar Is An Information Gathering Framework For Penetration Testers Coded By ALOK</b>
